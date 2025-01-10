@@ -1,4 +1,3 @@
----
 
 ```markdown
 # Auto Database Backup and GitHub Sync
@@ -92,5 +91,4 @@ Feel free to fork the repository, open issues, or submit pull requests for impro
 For any questions or issues, reach out to [Nishant](mailto:nishantamar09@gmail.com).
 ```
 
----
 
