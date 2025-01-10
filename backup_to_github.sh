@@ -4,7 +4,7 @@
 source /home/nishant/Project/db-config/db_config.conf
 
 # GitHub repository HTTPS URL with token
-GIT_REPO="https://${GITHUB_TOKEN}@github.com/nish1102/backup_cronjob.git"
+GIT_REPO="https://${GITHUB_TOKEN}@github.com/Nish1102/backup_cronjob.git"
 
 # Backup directory and file
 BACKUP_DIR="/home/nishant/Project/data-backup"
